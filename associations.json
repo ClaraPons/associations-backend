@@ -1,0 +1,23 @@
+[
+    {
+		"slug": "restos-du-coeur",
+       "name": "les restos du coeur",
+        "slogan": "On compte sur vous",
+        "description": "Les Restos du cœur sont une association loi de 1901 à but non lucratif et reconnue d'utilité publique, créée en France par Coluche en 19853. Cette association a pour particularité d'avoir bénéficié du soutien de plusieurs personnalités françaises, dès ses débuts, et d'une vaste médiatisation, ce qui retient l'attention de la classe politique, permet d'établir de nouvelles lois4, et attire la participation de nombreux bénévoles.",
+        "image": "https://www.carrefouruncombatpourlaliberte.fr/wp-content/uploads/2013/07/Logo-Restos-du-coeur.jpg"
+    },
+    {
+		"slug": "unicef",
+       "name": "Unicef",
+        "slogan": "Unite for children",
+        "description": "Le Fonds des Nations unies pour l'enfance, généralement désigné par l'acronyme UNICEF, est une agence de l'Organisation des Nations unies (ONU) consacrée à l'amélioration et à la promotion de la condition des enfants. Elle participe activement à la rédaction, la conception et la promotion de la Convention relative aux droits de l'enfant (CIDE), adoptée lors du sommet de New York le 20 novembre 1989.",
+        "image": "https://bitcoin.fr/wp-content/uploads/2019/10/unicef.jpg"
+    },
+    {
+		"slug": "konexio",
+       "name": "Konexio",
+        "slogan": "Faire du numérique une opportunité pour tous.tes",
+        "description": "Konexio est une association et un organisme de formation qui forme aux compétences numériques - des plus basiques aux plus avancées - afin de faciliter l'inclusion socioprofessionnelle. ​Depuis des années, Konexio discute avec l’ensemble de ses parties prenantes pour trouver des solutions afin de lutter contre l’illectronisme.",
+        "image": "https://www.konexio.eu/uploads/1/2/0/2/120245745/konexio_logo.png"
+    }
+]
