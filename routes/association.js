@@ -17,11 +17,12 @@ app.post('/:slug', verifyAsso, (req, res) =>{
         slug: req.findAsso.slug
     }
     
-    messages.push(message)
+    messages.unshift(message)
     res.json(messages)
 })
 
 app.get('/:slug/message', (req, res) =>{
+    
     res.json(messages)
 })
 
