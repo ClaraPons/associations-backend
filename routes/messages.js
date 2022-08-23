@@ -25,5 +25,14 @@ app.get('/', (req, res) =>{
     
 })
 
+app.get('/:slug', (req, res) =>{
+
+    const filteredMessages = messages.filter(message => message.slug === req.params.slug)
+    const sortedMessages = filteredMessages.sort((a,b) => {
+        return moment(b.date).format('x') - moment(a.date).format('x')
+    })
+   
+    res.json(sortedMessages)
+})
 
 module.exports = app
